@@ -1,0 +1,41 @@
+Aula-1
+Comandos usados na aula de hoje, como aprender a usar o console do navegador com js ( atalho f12)
+alert("Bem vinde!")
+var a = 1
+a
+alert(a)
+
+Aula-2
+
+var nome = "Ludmylla" ;
+
+nome
+
+var x = 10 
+x
+alert(x);
+alert("O valor de x é:" + x); // concatenar string com a variável
+
+x
+var y = 20;
+y
+x+y
+var soma = 0 ;
+soma = x + y ;
+x
+y
+soma
+
+
+Exemplo novo 
+
+soma
+30
+alert("Meu nome é:" + nome);
+var sobrenome = "Marley";
+alert("Meu nome é :" + nome + sobrenome);
+alert("Meu nome é: " + nome +" " + sobrenome); // como concatenar string com duas variavéis (nome+sobrenome)
+console.log(soma);
+console.log(nome);
+console.log(sobrenome) // como exibir o valor da variavél no consoler
+
